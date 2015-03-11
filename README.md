@@ -5,6 +5,7 @@ Sinta-se livre para adotar e contribuir esses padrões!
 
 ## Code Styles
 > * [Ruby](https://github.com/bluesoft/styleguide/blob/master/ruby/code-style.md)
+> * [Javascript](https://github.com/airbnb/javascript)
 
 ### Feito pela equipe Bluesoft para a Comunidade.
 
