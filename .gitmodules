@@ -1,0 +1,3 @@
+[submodule "javascript/airbnb"]
+	path = javascript/airbnb
+	url = https://github.com/airbnb/javascript
