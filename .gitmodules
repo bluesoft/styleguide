@@ -1,16 +1,9 @@
-[submodule "javascript/airbnb"]
-	path = javascript/airbnb
-	url = https://github.com/airbnb/javascript
-[submodule "javascript/angular"]
-	path = javascript/angular
-	url = https://github.com/johnpapa/angular-styleguide.git
-[submodule "ruby/ruby-style-guide"]
-	path = ruby/ruby-style-guide
-	url = https://github.com/bbatsov/ruby-style-guide
-
-[submodule "javascript/lang"]
-	path = javascript/lang
-	url = https://github.com/airbnb/javascript.git
 [submodule "ruby/lang"]
 	path = ruby/lang
 	url = https://github.com/bbatsov/ruby-style-guide.git
+[submodule "javascript/lang"]
+	path = javascript/lang
+	url = https://github.com/airbnb/javascript.git
+[submodule "javascript/angular"]
+	path = javascript/angular
+	url = https://github.com/johnpapa/angular-styleguide.git
