@@ -8,3 +8,6 @@
 	path = ruby/ruby-style-guide
 	url = https://github.com/bbatsov/ruby-style-guide
 
+[submodule "javascript/lang"]
+	path = javascript/lang
+	url = https://github.com/airbnb/javascript.git
