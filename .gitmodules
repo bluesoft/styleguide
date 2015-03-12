@@ -11,3 +11,6 @@
 [submodule "javascript/lang"]
 	path = javascript/lang
 	url = https://github.com/airbnb/javascript.git
+[submodule "ruby/lang"]
+	path = ruby/lang
+	url = https://github.com/bbatsov/ruby-style-guide.git
